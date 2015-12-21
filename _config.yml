@@ -1,7 +1,7 @@
 name: Hide and Hand
 favicon: null
-layout_spectrum: 0.08665216295048594
-typography_spectrum: 0.4219183521345258
+layout_spectrum: 1
+typography_spectrum: 0.48852
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5036779760848731
+    - '#f4f2f3'
+    - '#211c20'
+    - '#e5ba85'
+    - '#8f4c32'
+    - '#817d7a'
+  brandStrength: 0.5
   lightness: 0.814183735055849
   saturation: 0.6235650992020965
   rhythmicContrast: 0.36375412880443037
